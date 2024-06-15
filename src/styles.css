@@ -5,3 +5,15 @@ h1 {
   font-size: 96px;
   line-height: 144px;
 }
+
+header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4))
+    url("../images/acropolis.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+}
