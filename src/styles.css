@@ -47,6 +47,11 @@ body {
     padding: 0 30px 30px;
 }
 
+.card-iframe {
+    width: 200px;
+    height: 200px;
+    max-width: 100%;
+}
 .btn {
     display: block;
     color: white;
